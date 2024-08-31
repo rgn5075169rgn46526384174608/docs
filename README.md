@@ -1,7 +1,34 @@
 ## GitHub Docs <!-- omit in toc -->
-
+El texto presentado es un resumen detallado de la iniciativa **AICRAFT**, que integra inteligencia artificial cuántica con tecnologías aeronáuticas avanzadas dentro del marco de **Ampel | ComTech 4.0**. Este proyecto se centra en la optimización de operaciones de vuelo, mejora de la eficiencia energética, seguridad de datos mediante criptografía, y simulaciones farmacológicas. El impacto previsto abarca avances tecnológicos significativos, mejoras en el acceso global al transporte aéreo, y una considerable reducción del impacto ambiental. Las metodologías de desarrollo aplicadas incluyen **Agile** y **AMPEL**, asegurando una ejecución ágil y orientada a resultados.
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+### GitHub Docs: Información General del Repositorio
 
+Este repositorio contiene el código del sitio web de documentación y los archivos fuente en Markdown para [docs.github.com](https://docs.github.com). El equipo de documentación de GitHub trabaja en el contenido de preproducción en un repositorio privado que se sincroniza regularmente con este repositorio público.
+
+### Contribuir al Repositorio
+
+Puedes empezar a contribuir de inmediato de varias maneras:
+
+1. **Haz una contribución desde los documentos:** Si encuentras algo que quieres añadir, actualizar o modificar mientras lees la documentación, haz clic en **make a contribution** para navegar directamente a ese artículo en el código fuente y comenzar tu contribución.
+
+2. **Abrir un issue:** Si detectas un problema, puedes abrir un issue usando una [plantilla](https://github.com/github/docs/issues/new/choose).
+
+3. **Resolver un issue:** Si tienes una solución para un issue abierto, debes hacer un fork del repositorio y enviar un pull request usando la [plantilla de pull request](https://github.com/github/docs/blob/main/CONTRIBUTING.md#pull-request-template).
+
+4. **Unirte a las discusiones:** Participa en [discusiones](https://github.com/github/docs/discussions) para hablar sobre diversos temas relacionados con la documentación, buscar ayuda, compartir ideas o conocimientos.
+
+### Licencias
+
+- La documentación del producto de GitHub en las carpetas `assets`, `content` y `data` está licenciada bajo una [licencia CC-BY](LICENSE).
+- Todo el código en este repositorio está bajo una [licencia MIT](LICENSE-CODE).
+
+Para el uso de logos de GitHub, asegúrate de seguir las [directrices de logos de GitHub](https://github.com/logos).
+
+### Archivos README en el Repositorio
+
+Además del README principal, el repositorio contiene otros archivos README que describen más en detalle el propósito de cada subdirectorio, como `content`, `data`, `components`, `stylesheets`, entre otros. 
+
+Puedes acceder a estos archivos README para obtener más información específica sobre cada sección del repositorio.
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
 In this article:
